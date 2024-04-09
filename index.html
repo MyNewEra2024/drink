@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Energy drink shop</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+        integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <!-- Навігація -->
+    <nav class="navbar">
+        <div class="navbar-center">
+            <a class="nav-item" href="">SHOP</a>
+            <a class="nav-item" href="">NEWS</a>
+            <a class="nav-item" href="">ACCOUNT</a>
+            <div class="cart-btn">
+                <span class="nav-icon">
+                    <i class="fas fa-cart-plus"></i>
+                </span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Головний сектор -->
+    <header class="hero">
+        <div class="banner">
+            <h1 class="banner-title">Energy drink Store</h1>
+            <a class="banner-btn" href="#Shop">Shop now</a>
+        </div>
+    </header>
+
+    <!-- Сектор багазину -->
+    <section class="products">
+        <div class="section-title">
+            <h2 id="Shop">Our Products</h2>
+        </div>
+        <div id="products" class="products-center">
+        </div>
+    </section>
+
+    <!-- Вікно корзини -->
+    <div class="cart-overlay">
+        <div class="cart">
+            <span class="close-cart">
+                <i class="fas fa-window-close"></i>
+            </span>
+            <h2>Your cart</h2>
+            <div class="cart-content"></div>
+            <div class="cart-footer">
+                <h3>your total: $ <span class="cart-total">0</span></h3>
+                <button class="clear-cart banner-btn">clear cart</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="my_app.js"></script>
+</body>
+
+</html>

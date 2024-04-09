@@ -1,0 +1,201 @@
+{
+  "items": [
+    
+    
+    {
+      "sys": {
+        "id": "1"
+      },
+      "fields": {
+        "title": "Monster Ultra Rosa",
+        "price": 17.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/monster-ultra-rosa.webp"
+            }
+          }
+        }
+      }
+    },
+
+    {
+      "sys": {
+        "id": "2"
+      },
+      "fields": {
+        "title": "Monster Aussie Style Lemonade",
+        "price": 16.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/monster-aussie-style.webp"
+            }
+          }
+        }
+      }
+    },
+
+    {
+      "sys": {
+        "id": "3"
+      },
+      "fields": {
+        "title": "Monster Khaotic",
+        "price": 17.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/monster-khaotic-energy-drink-500ml.webp"
+            }
+          }
+        }
+      }
+    },
+    
+    {
+      "sys": {
+        "id": "4"
+      },
+      "fields": {
+        "title": "Monster Original",
+        "price": 14.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/monster-original-energy-drink-500ml-case_temp_1.webp"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "Monster Ultra Watermelon",
+        "price": 18.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/monster-ultra-watermelon-energy-drink-500ml.webp"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6"
+      },
+      "fields": {
+        "title": "Monster Ultra Gold",
+        "price": 15.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/monster-ultra-gold-500ml.webp"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7"
+      },
+      "fields": {
+        "title": "Monster Pacific Punch",
+        "price": 15.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/monster-pacific-punch-energy-drink-500ml.webp"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "Monster Punch Mixxd",
+        "price": 16.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/monster-punch-mixxd-energy-drink-500ml.webp"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "9"
+      },
+      "fields": {
+        "title": "Monster Zero Sugar",
+        "price": 16.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/monster-zero-sugar-energy-drink-500ml.webp"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10"
+      },
+      "fields": {
+        "title": "Monster Bad Apple",
+        "price": 18.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/monster-bad-apple-energy-drink-500ml.webp"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "11"
+      },
+      "fields": {
+        "title": "Monster Energy Ultra Violet",
+        "price": 17.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/46326233-5cfb-4f25-9a6e-dc854917d84e.webp"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "12"
+      },
+      "fields": {
+        "title": "Monster Energy Ultra",
+        "price": 18.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/1335e113-a07a-4a82-89ae-86408ae53472.webp"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
